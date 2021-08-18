@@ -1,6 +1,6 @@
 #Site wide configuration
 
-title:            Meren
+title:            MerenLab
 locale:           en_US
 url:              https://meraklab.github.io/web-1
 
@@ -33,7 +33,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Meren
+  name: Meren Lab
   email: a.murat.eren@gmail.com
   disqus-shortname: merensgithub
 
