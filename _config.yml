@@ -2,7 +2,7 @@
 
 title:            Meren
 locale:           en_US
-url:              https://meraklab.github.io/web-1/
+url:              https://meraklab.github.io/web-1
 
 # Jekyll configuration
 permalink: /:year/:month/:day/:title/
